@@ -104,6 +104,10 @@ p.contactLabel:first-of-type {
 	font-size: 20px;
 }
 
+.contactForm input.lastInput {
+	border-right: 2px solid #0189ba;
+}
+
 @media(max-width: 700px) {
 
 	.contactLabel {

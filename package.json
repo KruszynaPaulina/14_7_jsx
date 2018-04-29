@@ -1,0 +1,24 @@
+{
+  "name": "14_7_jsx",
+  "version": "1.0.0",
+  "description": "https://kruszynapaulina.github.io/14_7_jsx",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8000 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruszynaPaulina/14_7_jsx.git"
+  },
+  "author": "Paulina Kruszyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruszynaPaulina/14_7_jsx/issues"
+  },
+  "homepage": "https://github.com/KruszynaPaulina/14_7_jsx#readme",
+  "keywords": [],
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
