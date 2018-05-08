@@ -1,6 +1,6 @@
-# 14_7_jsx
+# lista_kontaktow_react_i_jsx
 
-https://kruszynapaulina.github.io/14_7_jsx
+https://kruszynapaulina.github.io/lista_kontaktow_react_i_jsx
 
 Zadanie wykonane w ramamch bootcampu Kodilla - "JavaScript developer" - II część "Web Developer".
 
